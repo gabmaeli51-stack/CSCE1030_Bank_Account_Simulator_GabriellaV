@@ -101,11 +101,11 @@ int main() {
 // --- 3. FUNCTION IMPLEMENTATIONS ---
 
 void printHeader() {
-    cout << "+-------------------------------------------------+" << endl;
-    cout << "|        Computer Science and Engineering         |" << endl;
-    cout << "|         CSCE 1030 - Computer Science I          |" << endl;
-    cout << "| Gabriella Vazquez  gv0244  gvazquez@my.unt.edu  |" << endl;
-    cout << "+-------------------------------------------------+" << endl;
+    cout << "+---------------------------------------------------------+" << endl;
+    cout << "|            Computer Science and Engineering             |" << endl;
+    cout << "|             CSCE 1030 - Computer Science I              |" << endl;
+    cout << "| Gabriella Vazquez  gv0244  GabriellaVazquez@my.unt.edu  |" << endl;
+    cout << "+---------------------------------------------------------+" << endl;
     cout << "\n============================================================" << endl;
     cout << "             Bank Account Simulator (Console)                 " << endl;
     cout << "============================================================" << endl;
